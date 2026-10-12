@@ -16,8 +16,11 @@
 ## UpDate - 12 de octubre
 
 * Pantalla de Titulo
-** A 
+    * Controles
+    * Titulo
 * Sonido
+   * Sonido de caida
+   * Sonido de contacto
 
 
 
