@@ -8,6 +8,17 @@
 >"Seems like a contradiction. Why isn't it the "51st Gmae" AVGN
 
 
+
+
+
+
 >[!CAUTION]
 >Aun no hay ni pantalla de inicio ni pantalla final!!! por lo que el juego se inicia de forma automatica.
+
+##UpDate - 12 de octubre
+
+- [x] Pantalla de Titulo
+- [x] Sonido
+
+
 
