@@ -10,11 +10,14 @@
 >"Seems like a contradiction. Why isn't it the "51st Game" AVGN
 
 
+## UpDate - 11 de octubre
+
 
 ## UpDate - 12 de octubre
 
-- [x] Pantalla de Titulo
-- [x] Sonido
+* Pantalla de Titulo
+** A 
+* Sonido
 
 
 
