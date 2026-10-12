@@ -30,7 +30,7 @@ public class Pelota {
 		this.y=this.y-3;
 	}
 	public void moverAbajo() {
-		this.y=this.y+3;
+		this.y=this.y+2;
 	}
 
     public boolean colisionaConJugador(Jugadores j) {
