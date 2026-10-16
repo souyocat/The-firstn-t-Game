@@ -30,24 +30,17 @@ public class Juego extends InterfaceJuego
 
 		this.entorno = new Entorno(this, "First n't Game", 800, 600);
 		this.jugando = false;
-		
 		this.imagenPortada = Herramientas.cargarImagen("titulo.png");
 		
-		// Inicializar lo que haga falta para el juego
 		
 		red = new Red(400, 300, 4, 600);
 		jugador = new Jugadores(0, 300, 20, 80);
 		jugador2 = new Jugadores(800, 300, 20, 80);
 		pelota = new Pelota(jugador.getAncho() + 10, jugador.getY(), 20, 20);
 
-		// Inicia el juego!
 		this.entorno.iniciar();
 	}
 
-	/**
-	 * Durante el juego, el método tick() será ejecutado en cada instante y 
-	 * por lo tanto es el método más importante de esta clase.
-	 */
 	public void tick()
 	{
 		if (!jugando) {
